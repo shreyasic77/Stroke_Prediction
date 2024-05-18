@@ -6,6 +6,8 @@ Stroke Probability Prediction from Clinical Measurements of Patients using PySpa
 ### Project Overview
 This project aims to predict the probability of stroke in patients using clinical measurements. Leveraging the power of PySpark, we built a machine learning model to classify patients based on various clinical factors such as hypertension, heart disease, age, work type, smoking status, and family history of disease.
 
+![Stroke Analysis](stroke_prediction.png)
+
 ### Objective
 - **Predict stroke probability** and classify patients based on clinical measurements.
 - Use **SQL queries** to return results as dataframes.
