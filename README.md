@@ -27,7 +27,7 @@ According to the World Health Organization (WHO), ischaemic heart disease and st
 - **Test Dataset:** Contains data on 18,601 patients.
 
 ### Data Exploration
-- The training dataset includes 783 stroke cases out of 42,617 patients.
+- The training dataset includes 726 stroke cases out of 43400 patients.
 - Analyzed the relationship between 'work type' and stroke probability, finding that people in 'private jobs' are more prone to strokes.
 - Gender distribution showed 60% females and 40% males, with stroke incidence varying with age and gender.
 
